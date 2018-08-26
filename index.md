@@ -2,9 +2,7 @@
 
 **Education:**
 [2013 - 2017]
-
 Indian Institute of Technology (Indian School of Mines), Dhanbad, Jharkhand, India
-
 Bachelor of Technology in Electrical Engineering
 
 Minor in Engineering Physics
