@@ -1,5 +1,5 @@
 ### Education
-###### 2013 - 2017
+##### 2013 - 2017
 Indian Institute of Technology (Indian School of Mines), Dhanbad, Jharkhand, India  
 Bachelor of Technology in Electrical Engineering  
 Minor in Engineering Physics  
@@ -26,7 +26,7 @@ I am currently learning about quantum information theory and how to interpret in
 ###### Dec 2017 - present
 Teacher of Physics and Mathematics at Plato's Planet, Dubai
 
-##### Jul 2016 - Dec 2017
+###### Jul 2016 - Dec 2017
 Intern at the Department of Electronic Systems Engineering, Indian Institute of Science, Bengaluru
 
 ### Extra Curricular Achievements
@@ -34,6 +34,7 @@ Intern at the Department of Electronic Systems Engineering, Indian Institute of 
 * Developed an infinite precision system to deal with slider objects on Mathematica for Hackfest ISM 2016
 * Designed and built the Electrical and Steering systems of a Go-Kart for GKDC 2015
 * Participated in Google Science Fair 2013
+
 ##### Non-Technical
 * Came second in a college level stand-up competition 2018
 * Was part of the team that won the third prize in the One Act Play category at the Inter-IIT Cultural Meet 2017
