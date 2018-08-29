@@ -40,4 +40,6 @@ Intern at the Department of Electronic Systems Engineering, Indian Institute of 
 * Was part of the team that won the third prize in the One Act Play category at the Inter-IIT Cultural Meet 2017
 * Co-directed 'The Importance of being Ernest' performed by the college theatre group
 
-Contact me on: [vslyo@hotmail.com](vslyo@hotmail.com)
+
+
+**Contact me at:** [vslyo@hotmail.com](vslyo@hotmail.com)
