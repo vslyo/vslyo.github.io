@@ -1,3 +1,5 @@
+<div style="text-align: justify">
+
 ### Education
 ##### 2013 - 2017
 Indian Institute of Technology (Indian School of Mines), Dhanbad, Jharkhand, India  
@@ -39,3 +41,5 @@ Intern at the Department of Electronic Systems Engineering, Indian Institute of 
 * Came second in a college level stand-up competition 2018
 * Was part of the team that won the third prize in the One Act Play category at the Inter-IIT Cultural Meet 2017
 * Co-directed 'The Importance of being Ernest' performed by the college theatre group
+
+</div>
