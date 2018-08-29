@@ -18,7 +18,7 @@ I am currently learning about quantum information theory and how to interpret in
 
 ### Scholastic Achievements
 * Secured all India 4th rank in the Joint Entrance Screening Test 2017 (Theoretical Physics)
-* Qualified the IIT-JEE securing an all India rank of 4572
+* Qualified the IIT-JEE ranking among the top 0.5% in India
 * Qualified for the Indian National Astronomy Olympiad 2012-13
 * Qualified for and attended the Indian National Mathematics Olympiad training camp held in Indian Statistical Institute Bengaluru 2011-12
 
