@@ -18,7 +18,7 @@ I am currently learning about quantum information theory and how to interpret in
 
 ### Scholastic Achievements
 * Secured all India 4th rank in the Joint Entrance Screening Test 2017 (Theoretical Physics)
-* Qualified the IIT-JEE ranking among the top 0.5% in India
+* Qualified the IIT-JEE of 2013 ranking among the top 0.5% in India
 * Qualified for the Indian National Astronomy Olympiad 2012-13
 * Qualified for and attended the Indian National Mathematics Olympiad training camp held in Indian Statistical Institute Bengaluru 2011-12
 
@@ -26,7 +26,7 @@ I am currently learning about quantum information theory and how to interpret in
 ###### Dec 2017 - present
 Teacher of Physics and Mathematics at Plato's Planet, Dubai
 
-###### Jul 2016 - Dec 2017
+###### Jul 2016 - Dec 2016
 Intern at the Department of Electronic Systems Engineering, Indian Institute of Science, Bengaluru
 
 ### Extra Curricular Achievements
