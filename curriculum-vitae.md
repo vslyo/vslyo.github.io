@@ -1,4 +1,4 @@
-<center> <h2> Curriculum Vitae </h2> </center>
+<h2 style="text-align: center;"> Curriculum Vitae </h2>
 
 ### Education
 ##### 2013 - 2017
