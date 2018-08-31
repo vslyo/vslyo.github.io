@@ -1,4 +1,4 @@
-<center> ## Curriculum Vitae </center>
+<h2> Curriculum Vitae </h2>
 
 ### Education
 ##### 2013 - 2017
