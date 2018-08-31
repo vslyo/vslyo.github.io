@@ -1,3 +1,5 @@
+## Curriculum Vitae
+
 ### Education
 ##### 2013 - 2017
 Indian Institute of Technology (Indian School of Mines), Dhanbad, Jharkhand, India  
