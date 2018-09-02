@@ -1,5 +1,3 @@
-<h2 style="text-align: center;"> Curriculum Vitae </h2>
-
 <p style="text-align: right;">Contact me: [vslyo@hotmail.com](vslyo@hotmail.com)</p>
 
 ### Education
