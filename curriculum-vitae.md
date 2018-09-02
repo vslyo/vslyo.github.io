@@ -1,5 +1,7 @@
 <h2 style="text-align: center;"> Curriculum Vitae </h2>
 
+<p style="text-align: right;">Contact me: [vslyo@hotmail.com](vslyo@hotmail.com)</p>
+
 ### Education
 ##### 2013 - 2017
 Indian Institute of Technology (Indian School of Mines), Dhanbad, Jharkhand, India  
@@ -41,7 +43,3 @@ Intern at the Department of Electronic Systems Engineering, Indian Institute of 
 * Came second in a college level stand-up competition 2018
 * Was part of the team that won the third prize in the One Act Play category at the Inter-IIT Cultural Meet 2017
 * Co-directed 'The Importance of being Ernest' performed by the college theatre group
-
-
-
-**Contact me at:** [vslyo@hotmail.com](vslyo@hotmail.com)
