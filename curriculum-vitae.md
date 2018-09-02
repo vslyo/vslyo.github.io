@@ -1,4 +1,4 @@
-<p style="text-align: right;">Contact me: [vslyo@hotmail.com](vslyo@hotmail.com)</p>
+<p style="text-align: right;"><b>Contact me:</b> <a href="vslyo@hotmail.com">vslyo@hotmail.com</a></p>
 
 ### Education
 ##### 2013 - 2017
