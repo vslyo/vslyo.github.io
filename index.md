@@ -12,5 +12,5 @@ Undergradute at the Indian Institute of Technology (Indian School of Mines), Dha
 Reading has always been a hobby of mine, science and mystery are the themes I most enjoy. I have also taken a keen interest in music lately and am working on developing it. A trip to North-East India May of 2017 kindled the adventure spirit in me and I plan to do some more travel when I get the chance.
 
 ### Contact Info [&#11127;](contact.md)
-**email:** [vslyo@hotmail.com](vslyo@hotmail.com)
+**email:** vslyo (at) hotmail (dot) com
 **mobile:** +91 90 08 645247
