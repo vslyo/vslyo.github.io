@@ -25,10 +25,10 @@ I am currently learning about quantum information theory and how to interpret in
 * Qualified for and attended the Indian National Mathematics Olympiad training camp held in Indian Statistical Institute Bengaluru 2011-12
 
 ### Work Experience
-###### Dec 2017 - present
+##### Dec 2017 - present
 Teacher of Physics and Mathematics at Plato's Planet, Dubai
 
-###### Jul 2016 - Dec 2016
+##### Jul 2016 - Dec 2016
 Intern at the Department of Electronic Systems Engineering, Indian Institute of Science, Bengaluru
 
 ### Extra Curricular Achievements
