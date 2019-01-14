@@ -8,6 +8,9 @@ Teacher of Physics and Mathematics at Plato's Planet, Dubai
 ##### 2013 - 2017
 Undergradute at the Indian Institute of Technology (Indian School of Mines), Dhanbad, India
 
+### [ Research Work ](research-work.md)
+Some of the research work I have done, am working on and plan to do are detailed here.
+
 ### [__Other Stuff__](other-stuff.md)
 Reading has always been a hobby of mine, science and mystery are the themes I most enjoy. I have also taken a keen interest in music lately and am working on developing it. A trip to North-East India May of 2017 kindled the adventure spirit in me and I plan to do some more travel when I get the chance.
 
