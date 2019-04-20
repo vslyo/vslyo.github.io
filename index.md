@@ -1,5 +1,5 @@
 ### About Me
-The pleasure of learning more about our universe is my motivation. I love studying physics and mathematics and I wish to continue my life with this hedonistic goal in mind. I am currently pursuing quantum information theory and am interested in the relation between the mathematical and physical characteristics of information. This journey has pushed me to give up on much of my intuition regarding information and only keeps getting more exciting!
+The pleasure of learning more about our universe is my motivation. I love studying physics and mathematics and am currently pursuing quantum information theory. I am interested in the relation between the mathematical and physical characteristics of information. This journey has pushed me to give up on much of my intuition and only keeps getting more exciting!
 
 ### [__Curriculum Vitae__](curriculum-vitae.md)
 ##### 2017 - Present
@@ -16,4 +16,4 @@ Reading has always been a hobby of mine, science and mystery are the themes I mo
 
 ### [__Contact Info__](contact.md)
 **email:** vslyo (at) hotmail (dot) com
-**mobile:** +91 90 08 645247
+**mobile:** +91 90 08 645247, +971 54 752 5150
