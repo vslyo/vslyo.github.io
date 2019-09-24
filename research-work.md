@@ -5,7 +5,7 @@ My current research interest is in the physics of information. The physical natu
 
 ### Slider
 Slider is an attempt at a fuzzy logic based evaluation system. This is a work in progress.
-1. [Slider](slider-2.pdf) - is just a detailing of the ideas that inspired slider.
+1. [Slider](slider-2.pdf) - is a detailing of the ideas that inspired slider.
 
 ### Miscellanea
 1. [Twenty Four](twenty_four.pdf) - the magical number.
