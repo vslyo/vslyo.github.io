@@ -1,5 +1,11 @@
+### The Physics of Information
+My current research interest is in the physics of information. The physical nature of information is what I think about most. Almost everything I work on seems to somehow connect to the physics of information. Below are some of my work on this area:
+1. [Quantum Nature of Classical Information](quantum_nature.pdf) - Origincally submitted for a course project requirement, this paper explores how classical information could be interpretted quantum mechanically.
+2. [Newcomb's Problem and Entanglement](quantum_newcomb.pdf) - explores Newcomb's Problem from a quantum perspective. This was also submitted for a course.
+
 ### Slider
-Slider is an attempt at a fuzzy logic based evaluation system. I am currently working on coming up with a mathematical base for slider. The linked paper describes some of my ideas about how qubits could be used to represent sliders. This is a work in progress and is, consequently, not all that refined. [Here](slider-2.pdf) is a link to the paper.
+Slider is an attempt at a fuzzy logic based evaluation system. This is a work in progress.
+1. [Slider](slider-2.pdf) - is just a detailing of the ideas that inspired slider.
 
 ### Miscellanea
-1. [Twenty Four](twenty_four.pdf)
+1. [Twenty Four](twenty_four.pdf) - the magical number.
