@@ -12,3 +12,4 @@ Slider is an attempt at a fuzzy logic based evaluation system. This is a work in
 1. [Twenty Four](twenty_four.pdf)
 2. [Integrality of the Multinomial Coefficients](multinomial_integrality.pdf)
 3. [Compositional Periodicity](compositional_periodicity.pdf)
+4. [Do things really exist?](things_exist.pdf)
