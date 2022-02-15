@@ -1,3 +1,5 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
 ### About Me
 The pleasure of learning more about the universe is my motivation. I love thinking science and am currently exploring the physics of information. I am interested in the relation between the mathematical and physical characteristics of information. This journey has had many a plot twist, forcing me to give up on much of my intuition, and only keeps getting more exciting!
 
