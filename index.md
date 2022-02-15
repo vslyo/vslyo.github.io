@@ -1,6 +1,8 @@
 ### About Me
 The pleasure of learning more about the universe is my motivation. I love thinking science and am currently exploring the physics of information. I am interested in the relation between the mathematical and physical characteristics of information. This journey has had many a plot twist, forcing me to give up on much of my intuition, and only keeps getting more exciting!
 
+Also, I think memes are the secret key to unlocking the mysteries of the universe.
+
 ### Curriculum Vitae ([⮩](curriculum-vitae.md))
 ##### 2020 - Present
 Physics Graduate at LMU, Munich
