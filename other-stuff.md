@@ -1,11 +1,15 @@
 #### Languages
 (conversant) english, mathematics
+
 (basic) kannada, hindi, malayalam, german (learning (slowly))
+
 (using the internet) most other languages
 
 #### Programming Experience
 (kind of conversant) python
+
 (used) mathematica, matlab, c++
+
 (using the internet) most others
 
 #### Hobbies
