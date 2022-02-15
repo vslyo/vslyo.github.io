@@ -1,4 +1,4 @@
-<p style="text-align: right;"><b>Contact me:</b> vishal.johnson (at) physik (dot) lmu (dot) de</p>, vslyo (at) hotmail (dot) com</p>
+<p style="text-align: right;"><b>Contact me:</b>vishal.johnson (at) physik (dot) lmu (dot) de</p> vslyo (at) hotmail (dot) com</p>
 
 ### Education
 ##### 2020 - Present
@@ -19,8 +19,8 @@ I find it suitable as it involves elements of physics, mathematics and computer 
 
 
 ### Research Work
-* Physics of Information
-  The major research theme I am working on is the physics of information. The quantum information theory perspective is that the “true” nature of information is quantum mechanical. However, there is a lot more to be done with this, including the use of statistical mechanics to study the properties of a large number of interacting information processors that leads to the behavior of information as we know it. These are some of the research ideas I am pursuing.
+* ####Physics of Information
+  * The major research theme I am working on is the physics of information. The quantum information theory perspective is that the “true” nature of information is quantum mechanical. However, there is a lot more to be done with this, including the use of statistical mechanics to study the properties of a large number of interacting information processors that leads to the behavior of information as we know it. These are some of the research ideas I am pursuing.
 * Had worked on a system that uses speech data to infer personality traits of a person using the big five personality traits as a blueprint and an artificial neural network as the classifier under the Human Interaction and Artificial Intelligence group at the Department of Electronic Systems Engineering, Indian Institute of Science, Bengaluru
 
 ### Scholastic Achievements
