@@ -11,7 +11,7 @@ Tutor of Physics and Mathematics at Plato's Planet, Dubai
 ##### 2013 - 2017
 Engineering Undergradute at IIT (ISM), Dhanbad
 
-### Research Work ([ &#2BA9 ](research-work.md))
+### Research Work ([ &#2BA9; ](research-work.md))
 My academic work is listed and linked here. I hope to update this regularly.
 
 ### Other Stuff ([_link_](other-stuff.md))
