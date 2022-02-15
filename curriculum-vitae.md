@@ -24,7 +24,7 @@ I find it suitable as it involves elements of physics, mathematics and computer 
   * Working on developing a fuzzy algebra inspired evaluation system that aims to capture the fuzziness in human decision-making. Working on a mathematical base that would be suitable in achieving this goal; quantum information seems to be a promising avenue for developing this idea.
   * Later plans include developing a web-based interface that would improve usability.
 * #### Big Five Personality Traits
- * Had worked on a system that uses speech data to infer personality traits of a person using the big five personality traits as a blueprint and an artificial neural network as the classifier under the Human Interaction and Artificial Intelligence group at the Department of Electronic Systems Engineering, Indian Institute of Science, Bengaluru.
+  * Had worked on a system that uses speech data to infer personality traits of a person using the big five personality traits as a blueprint and an artificial neural network as the classifier under the Human Interaction and Artificial Intelligence group at the Department of Electronic Systems Engineering, Indian Institute of Science, Bengaluru.
 
 ### Work Experience
 ##### Dec 2017 - Sep 2020
