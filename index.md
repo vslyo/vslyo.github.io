@@ -7,7 +7,7 @@ Physics Graduate at LMU, Munich
 
 ##### 2017 - 2020
 Tutor of Physics and Mathematics at Plato's Planet, Dubai
-\alpha
+$\alpha$
 ##### 2013 - 2017
 Engineering Undergradute at IIT (ISM), Dhanbad
 
