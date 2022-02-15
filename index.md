@@ -1,18 +1,21 @@
 ### About Me
-The pleasure of learning more about our universe is my motivation. I love studying physics and mathematics and am currently pursuing quantum information theory. I am interested in the relation between the mathematical and physical characteristics of information. This journey has pushed me to give up on much of my intuition and only keeps getting more exciting!
+The pleasure of learning more about the universe is my motivation. I love thinking science and am currently exploring the physics of information. I am interested in the relation between the mathematical and physical characteristics of information. This journey has had many a plot twist, forcing me to give up on much of my intuition, and only keeps getting more exciting!
 
 ### Curriculum Vitae ([__link__](curriculum-vitae.md))
-##### 2017 - Present
-Teacher of Physics and Mathematics at Plato's Planet, Dubai
+##### 2020 - Present
+Physics Graduate at LMU, Munich
 
+##### 2017 - 2020
+Tutor of Physics and Mathematics at Plato's Planet, Dubai
+\alpha
 ##### 2013 - 2017
-Undergradute at the Indian Institute of Technology (Indian School of Mines), Dhanbad, India
+Engineering Undergradute at IIT (ISM), Dhanbad
 
 ### Research Work ([_link_](research-work.md))
-Some of the research work I have done, am working on and plan to do are detailed here.
+My academic work is listed and linked here. I hope to update this regularly.
 
 ### Other Stuff ([_link_](other-stuff.md))
-Reading has always been a hobby of mine, science and mystery are the themes I most enjoy. I have also taken a keen interest in music lately and am working on developing it. A trip to North-East India May of 2017 kindled the adventure spirit in me and I plan to do some more travel when I get the chance.
+Some of my non-academic interests are listed here.
 
 ### Contact Info ([_link_](contact.md))
 **email:** vslyo (at) hotmail (dot) com
