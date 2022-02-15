@@ -7,12 +7,13 @@ My current research interest is in the physics of information. The physical natu
 
 ### Slider
 Slider is an attempt at a fuzzy logic based evaluation system. This is a work in progress.
-1. [Slider](slider.pdf) - is a detailing of the ideas that inspired slider.
+* [Slider](slider.pdf) - is a detailing of the ideas that inspired slider.
 
 ### Miscellanea
-1. [Twenty Four](twenty_four.pdf)
-2. [Integrality of the Multinomial Coefficients](multinomial_integrality.pdf)
-3. [Compositional Periodicity](compositional_periodicity.pdf)
-4. [Do things really exist?](things_exist.pdf)
-5. [Transcendence of Newton's Laws](newtonian_transcendence.pdf)
-6. [Supersymmetry](supersymmetry.pdf) (submitted for a seminar)
+* [Twenty Four](twenty_four.pdf)
+* [Integrality of the Multinomial Coefficients](multinomial_integrality.pdf)
+* [Compositional Periodicity](compositional_periodicity.pdf)
+* [Do things really exist?](things_exist.pdf)
+* [Transcendence of Newton's Laws](newtonian_transcendence.pdf)
+* [Newcomb's Problem and an argument for 1-boxing](newcomb.pdf)
+* [Expressions for Quantum Relative Entropy](relative_entropy_expressions.pdf)
