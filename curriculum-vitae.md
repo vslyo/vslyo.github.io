@@ -1,4 +1,4 @@
-<p style="text-align: right;"><b>Contact me:</b>vishal.johnson (at) physik (dot) lmu (dot) de, vslyo (at) hotmail (dot) com</p>
+<p style="text-align: right;"><b>Contact me:</b>vishal.johnson (at) physik (dot) lmu (dot) de</p>
 
 ### Education
 ##### 2020 - Present
