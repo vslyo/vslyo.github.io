@@ -18,5 +18,4 @@ My academic work is listed and linked here. I hope to update this regularly.
 Some of my non-academic interests are listed here.
 
 ### Contact Info ([⮩](contact.md))
-**email:** vishal.johnson (at) physik (dot) lmu (dot) de, vslyo (at) hotmail (dot) com
-**mobile:** +91 90 08 645247, +49 1577 2822 180
+vishal.johnson (at) physik (dot) lmu (dot) de
