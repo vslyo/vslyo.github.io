@@ -33,4 +33,4 @@ Teacher of Physics and Mathematics at Plato's Planet, Dubai
 ##### Jul 2016 - Dec 2016
 Intern at the Department of Electronic Systems Engineering, Indian Institute of Science, Bengaluru
 
-Find a more detailed cv [here](cv.pdf)
+Find a downloadable cv [here](cv.pdf)
