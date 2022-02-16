@@ -17,4 +17,4 @@ Slider is an attempt at a fuzzy logic based evaluation system. This is a work in
 * [Transcendence of Newton's Laws](newtonian-transcendence.pdf)
 * [Newcomb's Problem and an argument for 1-boxing](newcomb.pdf)
 * [Expressions for Quantum Relative Entropy](relative-entropy-expressions.pdf)
-* [Cosmic Rays and US Presidential Memes](cosmic-rays-memes.pdf)
+* [Cosmic Rays and US Presidential Memes](cosmic-rays-memes.pdf) (with Andrés Ramirez⁩)
