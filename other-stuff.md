@@ -5,7 +5,7 @@
 
 (using the internet) most other languages
 
-#### Programming Experience
+#### Programming
 (kind of conversant) python
 
 (used) mathematica, matlab, c++
@@ -15,4 +15,4 @@
 #### Hobbies
 I have an active interest in music, working on a few compositions but haven't done anything solid yet. My tastes range from classical to jazz to rock to folk, I am currently in an exploratory phase.
 
-I enjoy reading, mostly mystery fiction (but never really find the time). I watch a bunch of tv (somehow find time for this). I enjoy travel but haven't done anything solid. Other than that I mostly seek out memes.
+What I most enjoy reading is mystery fiction. I watch a bunch of tv. I am hoping to travel when I get a chance. Other than that I mostly seek out memes.
