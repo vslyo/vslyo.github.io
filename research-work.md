@@ -21,4 +21,4 @@ Slider is an attempt at a fuzzy logic based evaluation system. This is a work in
 * [Expressions for Quantum Relative Entropy](relative-entropy-expressions.pdf)
 * [Cosmic Rays and US Presidential Memes](cosmic-rays-memes.pdf) (with Andrés Ramirez⁩)
 * [Effective Expansion](effective-expansion.pdf) - as part of a seminar
-* [Supersymmetry](supersymmetry.pdf) - as part of a seminar
+* [Supersymmetry](supersymmetry-seminar.pdf) - as part of a seminar
