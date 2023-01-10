@@ -6,7 +6,7 @@ My current research interest is in the physics of information. The physical natu
 * [Interaction Free Measurement](interaction-free.pdf) - submitted for a seminar
 * [Generalised Measurement](generalised-measurement.pdf)
 * [Quantum Mechanics from an Information Theory Perspective](qm-it.pdf) - exploring quantum mechanics starting from the principle of information conservation
-* [Measurement in a Unitary World] - https://arxiv.org/abs/2212.03829
+* Measurement in a Unitary World - https://arxiv.org/abs/2212.03829
 
 ### Slider
 Slider is an attempt at a fuzzy logic based evaluation system. This is a work in progress.
