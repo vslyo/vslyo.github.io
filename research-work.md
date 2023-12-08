@@ -1,12 +1,15 @@
 ### The Physics of Information
-My current research interest is in the physics of information. The physical nature of information is what I think about most. Almost everything I work on seems to somehow relate to the physics of information. Below are some of my work on this area:
-* [Knowledge in Quantum Mechanics](quantum-knowledge.pdf) - explores the concept of Knowledge from a quantum perspective
-* [Quantum Nature of Classical Information](quantum-nature.pdf) - originally submitted for a course project requirement, this paper explores how classical information could be interpretted quantum mechanically
-* [Newcomb's Problem and Entanglement](quantum-newcomb.pdf) - explores Newcomb's Problem from a quantum perspective, submitted for a course
-* [Interaction Free Measurement](interaction-free.pdf) - submitted for a seminar
+My current research interest is in the physics of information.
+#### Quantum and Information
+* [Quantum Measurement and Objective Classical Reality](https://www.mdpi.com/2673-9984/9/1/16)
+* [Is Fuchs Wigner's friend?](fuchs.pdf) - explores Wigner's paradox.
+* [Measurement in a Unitary World](https://arxiv.org/abs/2212.03829) - is a unitary formulation of quantum measurements.
+* [Quantum Mechanics from an Information Theory Perspective](qm-it.pdf) - exploring quantum mechanics starting from the principle of information conservation.
 * [Generalised Measurement](generalised-measurement.pdf)
-* [Quantum Mechanics from an Information Theory Perspective](qm-it.pdf) - exploring quantum mechanics starting from the principle of information conservation
-* Measurement in a Unitary World - https://arxiv.org/abs/2212.03829
+* [Interaction Free Measurement](interaction-free.pdf) - submitted for a seminar.
+* [Knowledge in Quantum Mechanics](quantum-knowledge.pdf) - explores the concept of Knowledge from a quantum perspective.
+* [Newcomb's Problem and Entanglement](quantum-newcomb.pdf) - explores Newcomb's Problem from a quantum perspective, submitted for a course.
+* [Quantum Nature of Classical Information](quantum-nature.pdf) - originally submitted for a course project requirement, this paper explores how classical information could be interpretted quantum mechanically.
 
 ### Slider
 Slider is an attempt at a fuzzy logic based evaluation system. This is a work in progress.
