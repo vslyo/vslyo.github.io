@@ -13,6 +13,3 @@ Non-academic work
 
 ### Contact [->](contact.md)
 vishal (at) mpa-garching (dot) mpg (dot) de
-
-
-[go to my research here $\to$](index.md)
