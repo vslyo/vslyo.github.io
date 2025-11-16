@@ -2,20 +2,18 @@
 
 ### Curriculum vitae (Praecipua)
 ##### 2023 - present
-Max-Planck-Institut für Astrophysik Garching, Ludwig-Maximilians-Universität München --- PhD in Physics
+MPA Garching, LMU München - PhD in Physics
 
 ##### 2020 - 2023
-Ludwig-Maximilians-Universität München
-Masters in Physics
+LMU München - Masters in Physics
 
 ##### 2017 - 2020
-Teacher of Physics and Mathematics at Plato's Planet, Dubai
+Plato's Planet Dubai - Teacher of Physics and Mathematics
 
 ##### 2013 - 2017
-Indian Institute of Technology (Indian School of Mines), Dhanbad, Jharkhand, India  
-Bachelor of Technology in Electrical Engineering, Minor in Engineering Physics
+IIT(ISM) Dhanbad - Bachelors in Electrical Engineering + minor in Engineering Physics
 
-##### - 2017
-Dreaming
+##### distant past - 2017
+Universe - forming the entity that would eventually write this text
 
 Find a downloadable cv [here](cv.pdf)
