@@ -2,8 +2,7 @@
 
 ### Curriculum vitae (Praecipua)
 ##### 2023 - present
-Max-Planck-Institut für Astrophysik Garching, Ludwig-Maximilians-Universität München
-PhD in Physics
+Max-Planck-Institut für Astrophysik Garching, Ludwig-Maximilians-Universität München --- PhD in Physics
 
 ##### 2020 - 2023
 Ludwig-Maximilians-Universität München
