@@ -5,7 +5,7 @@ I love to think and I love to think science. My broad interest is in the physics
 ##### 2023 - Present
 Physics PhD at LMU, Munich
 
-$[\hookrightarrow]$
+$[\hookrightarrow](curriculum-vitae.md)$
 
 ### Research ([$\hookrightarrow$](research-work.md))
 Academic work
