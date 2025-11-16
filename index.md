@@ -1,17 +1,15 @@
 ### About Me
 I love to think and I love to think science. My broad interest is in the physics of information but almost anything with a flavour of physics, math, or philosophy interests me.
 
-### Curriculum vitae (nunc) [testing this out $\hookrightarrow$](curriculum-vitae.md)
+### Curriculum vitae (nunc) [->](curriculum-vitae.md)
 ##### 2023 - Present
 Physics PhD at LMU, Munich
 
-$[\hookrightarrow](curriculum-vitae.md)$
-
-### Research ([$\hookrightarrow$](research-work.md))
+### Research [->](research-work.md)
 Academic work
 
-### Other ([$\hookrightarrow$](other-stuff.md))
+### Other [->](other-stuff.md)
 Non-academic work
 
-### Contact ([$\hookrightarrow$](contact.md))
+### Contact [->](contact.md)
 vishal (at) mpa-garching (dot) mpg (dot) de
