@@ -10,8 +10,20 @@ Here are some of my latest work:
 All my research can be found [here](research-work.md).
 
 ### [Curriculum vitae](cv.pdf)
-##### 2023 - Present
-Physics PhD at LMU, Munich
+##### 2023 - present
+MPA Garching, LMU München - PhD in Physics
+
+##### 2020 - 2023
+LMU München - Masters in Physics
+
+##### 2017 - 2020
+Plato's Planet Dubai - Teacher of Physics and Mathematics
+
+##### 2013 - 2017
+IIT(ISM) Dhanbad - Bachelors in Electrical Engineering + minor in Engineering Physics
+
+##### distant past - 2017
+Universe - forming the entity that would eventually write this text
 
 ### Other stuff
 ##### Languages of the human variety
