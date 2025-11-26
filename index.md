@@ -9,11 +9,23 @@ Here are some of my latest work:
 
 All my research can be found [here](research-work.md).
 
-### Curriculum vitae [->](cv.pdf)
+### [Curriculum vitae](cv.pdf)
 ##### 2023 - Present
 Physics PhD at LMU, Munich
 
-### Other [->](other-stuff.md)
+### Other stuff
+##### Languages of the human variety
+(conversant) english, mathematics
+(basic) kannada, hindi, malayalam, german (learning (slowly))
+(using the internet) most other languages
+
+##### Languages of the computer variety
+(somewhat conversant) python
+(somewhat less conversant) mathematica, matlab, c++, git, linux ecosystem
+(using the internet) most others
+
+#### Hobbies
+I have an active interest in music, and some amateur compositions. My tastes range from classical to jazz to rock to folk. I also enjoy travelling.
 
 ### [Contact me!](contact.md)
 vishal (at) mpa-garching (dot) mpg (dot) de
