@@ -9,11 +9,11 @@ Here are some of my latest work:
 
 All my research can be found [here](research-work.md).
 
-### Curriculum vitae [->](curriculum-vitae.md)
+### Curriculum vitae [->](cv.pdf)
 ##### 2023 - Present
 Physics PhD at LMU, Munich
 
 ### Other [->](other-stuff.md)
 
-### Contact [->](contact.md)
+### [Contact me!](contact.md)
 vishal (at) mpa-garching (dot) mpg (dot) de
