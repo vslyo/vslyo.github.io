@@ -1,5 +1,11 @@
-### The Physics of Information
+### Physics of Information
+Information is physical. What limits to the laws of physics impose on the information? 
+
 #### Quantum and Information
+* [Correlation as a resource](correlation-talk.pdf)
+* [Correlation as a resource poster](correlation-poster.pdf)
+* [Born rule derived](born-rule-poster.pdf)
+* [When Everett observes Greenberger, Horne, and Zeilinger meeting Wigner's friend](everett-ghz-poster.pdf)
 * [Quantum Measurement and Objective Classical Reality](https://www.mdpi.com/2673-9984/9/1/16)
 * [Is Fuchs Wigner's friend?](fuchs.pdf) - explores Wigner's paradox.
 * [Measurement in a Unitary World](https://arxiv.org/abs/2212.03829) - is a unitary formulation of quantum measurements.
@@ -17,6 +23,9 @@
 * [Do things really exist?](things-exist.pdf)
 * [Transcendence of Newton's Laws](newtonian-transcendence.pdf)
 * [Newcomb's Problem and an argument for 1-boxing](newcomb.pdf)
+* [Newcomb's Paradox again!](necomb-paradox-again.pdf)
+* [Memegenesis](memegenesis.pdf)
+* [Half average](hald-average-presentation.pdf)
 * [Expressions for Quantum Relative Entropy](relative-entropy-expressions.pdf)
 * [Cosmic Rays and US Presidential Memes](cosmic-rays-memes.pdf) (with Andrés Ramirez⁩)
 * [Effective Expansion](effective-expansion.pdf) - as part of a seminar
