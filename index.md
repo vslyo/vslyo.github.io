@@ -28,12 +28,16 @@ Universe - forming the entity that would eventually write this text
 ### Other stuff
 ##### Languages of the human variety
 (conversant) english, mathematics
-(basic) kannada, hindi, malayalam, german (learning (slowly))
+
+(basic) kannada, hindi, malayalam
+
 (using the internet) most other languages
 
 ##### Languages of the computer variety
 (somewhat conversant) python
+
 (somewhat less conversant) mathematica, matlab, c++, git, linux ecosystem
+
 (using the internet) most others
 
 #### Hobbies
