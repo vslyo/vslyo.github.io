@@ -9,8 +9,8 @@ Here are some of my latest works:
 
 Find my research [here](research-work.md).
 
-## [Curriculum vitae](cv.pdf)
-##### 2023 - present
+## [Curriculum Vitae](cv.pdf)
+##### 2023 - Present
 PhD in Physics - MPA Garching, LMU Munich
 
 ##### 2020 - 2023
@@ -22,18 +22,18 @@ Teacher of Physics and Mathematics - Plato's Planet Dubai
 ##### 2013 - 2017
 Bachelors in Electrical Engineering + minor in Engineering Physics - IIT(ISM) Dhanbad
 
-##### distant past - 2017
+##### Distant Past - 2017
 Formation of the entity that would eventually write this text - Universe
 
 ## Other stuff
-#### Languages of the human variety
+#### Languages of the Human Variety
 (conversant) english, mathematics
 
 (basic) kannada, hindi, malayalam
 
 (using the internet) most other languages
 
-#### Languages of the computer variety
+#### Languages of the Computer Variety
 (somewhat conversant) python
 
 (somewhat less conversant) mathematica, matlab, c++, git, linux ecosystem
