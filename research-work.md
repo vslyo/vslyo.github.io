@@ -35,9 +35,10 @@ From the more mathy...
 * [Expressions for Quantum Relative Entropy](relative-entropy-expressions.pdf)
 * [Transcendence of Newton's Laws](newtonian-transcendence.pdf)
 * [Slider](slider.pdf)
-* [Newcomb's Problem and Entanglement](quantum-newcomb.pdf) - explores Newcomb's Problem from a quantum perspective, submitted for a course.
+* [Newcomb's Problem and Entanglement](quantum-newcomb.pdf)
 * [Newcomb's Paradox again!](necomb-paradox-again.pdf)
 * [Newcomb's Problem and an argument for 1-boxing](newcomb.pdf)
 * [Half average](hald-average-presentation.pdf)
 * [Do things really exist?](things-exist.pdf)
+
 ...to the more philosophyy.
