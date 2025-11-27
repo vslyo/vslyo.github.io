@@ -1,29 +1,29 @@
-## [Who am I?](research-work.md)
-I'm currently a doctoral student in physics. If I had to use one label to highlight my research focus it would be: physics of information. For my masters and currently in my doctoral studies, the main theme of my research has been "quantum and information": looking at quantum mechanics from an information theory perspective. Having started off in quantum foundations and quantum computing I have also lately been working on the connection between quantum mechanics and special relativity.
+## [Who Am I?](research-work.md)
+I am a physics doctoral student at LMU, Munich. One label to highlight my research focus is: physics of information. In my masters and in my current doctoral studies, my main research theme has been "quantum and information": looking at quantum mechanics from an information theory perspective. Having started off in quantum foundations and quantum information, I now additionally have been analysing the intersection between quantum mechanics and special relativity.
 
-I am a member of the [information field theory group](https://www.mpa-garching.mpg.de/109183/Information-Field-Theory) at the Max Planck Institute for Astrophysics, where along with the work on quantum mechanics, I have also been working on radio interferometric imaging. Additionally, I have spent a major fraction of my doctoral studies (and part of my masters) helping out with the lectures on [information field theory](https://wwwmpa.mpa-garching.mpg.de/~ensslin/lectures/lectures.html). I am generally interested in topics with a flavour of physics, mathematics, or philosophy.
+As a member of the [information field theory group](https://www.mpa-garching.mpg.de/109183/Information-Field-Theory) at the Max Planck Institute for Astrophysics, I work on quantum mechanics but also radio interferometric imaging. Additionally, I have spent a major fraction of my doctoral studies (and a part of my masters) assisting with lectures on [information field theory](https://wwwmpa.mpa-garching.mpg.de/~ensslin/lectures/lectures.html). My interests generally lie in areas relating to physics, mathematics, and philosophy.
 
-Here are some of my latest work:
-* Correlation as a Resource: Quantum measurment involves the environment; assuming unitary quantum mechanics and some other natural statement constrians the initial state of the environment that allows for successful measurmeent. Find more information in this [poster](correlation-poster.pdf) or [talk handout](correlation-talk.pdf).
-* Everett meets GHZ: Can quantum mechanics and special relativity co-exist? Here is a [poster](everett-ghz-poster.pdf).
+Here are some of my latest works:
+* Correlation as a Resource: Quantum measurement involves the environment. Unitary quantum mechanics restricts the possible initial states of the environment which can support successful quantum measurement. Find more information in this [poster](correlation-poster.pdf) or [talk handout](correlation-talk.pdf).
+* Everett meets GHZ: Can quantum mechanics and special relativity co-exist? Here is a [poster](everett-ghz-poster.pdf) exploring this idea.
 
-All my research can be found [here](research-work.md).
+Find my research [here](research-work.md).
 
 ## [Curriculum vitae](cv.pdf)
 ##### 2023 - present
-MPA Garching, LMU München - PhD in Physics
+PhD in Physics - MPA Garching, LMU Munich
 
 ##### 2020 - 2023
-LMU München - Masters in Physics
+Masters in Physics - LMU Munich
 
 ##### 2017 - 2020
-Plato's Planet Dubai - Teacher of Physics and Mathematics
+Teacher of Physics and Mathematics - Plato's Planet Dubai
 
 ##### 2013 - 2017
-IIT(ISM) Dhanbad - Bachelors in Electrical Engineering + minor in Engineering Physics
+Bachelors in Electrical Engineering + minor in Engineering Physics - IIT(ISM) Dhanbad
 
 ##### distant past - 2017
-Universe - forming the entity that would eventually write this text
+Formation of the entity that would eventually write this text - Universe
 
 ## Other stuff
 #### Languages of the human variety
