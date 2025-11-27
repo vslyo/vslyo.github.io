@@ -1,4 +1,4 @@
-## [Who Am I?](research-work.md)
+## Who Am I? [->](research-work.md)
 I am a physics doctoral student at LMU, Munich. One label to highlight my research focus is: physics of information. In my masters and in my current doctoral studies, my main research theme has been "quantum and information": looking at quantum mechanics from an information theory perspective. Having started off in quantum foundations and quantum information, I now additionally have been analysing the intersection between quantum mechanics and special relativity.
 
 As a member of the [information field theory group](https://www.mpa-garching.mpg.de/109183/Information-Field-Theory) at the Max Planck Institute for Astrophysics, I work on quantum mechanics but also radio interferometric imaging. Additionally, I have spent a major fraction of my doctoral studies (and a part of my masters) assisting with lectures on [information field theory](https://wwwmpa.mpa-garching.mpg.de/~ensslin/lectures/lectures.html). My interests generally lie in areas relating to physics, mathematics, and philosophy.
