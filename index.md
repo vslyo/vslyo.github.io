@@ -43,5 +43,7 @@ Formation of the entity that would eventually write this text - Universe
 #### Hobbies
 I have an active interest in music, and some amateur compositions. My tastes range from classical to jazz to rock to folk. I also enjoy travelling.
 
-## Contact me! [(link)](contact.md)
+## Contact me!
 vishal (at) mpa-garching (dot) mpg (dot) de
+
+vslyo (at) hotmail (dot) com
