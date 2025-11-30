@@ -22,7 +22,7 @@ The other part of my doctoral studies involves work on information field theory 
 * [Pauli Matrix for Stokes Representation](Pauli_matrix_exponential.pdf): The Stokes matrix for light polarization in terms of the Pauli algebra.
 
 #### Memes
-* [Memegenesis](memegenesis.pdf): Can memes be modelled in physics? As a bonus, the answers to all questions of the universe: [Twenty Four](twenty-four.pdf).
+* [Memegenesis](memegensis.pdf): Can memes be modelled in physics? As a bonus, the answers to all questions of the universe: [Twenty Four](twenty-four.pdf).
 * [Cosmic Rays and US Presidential Memes](cosmic-rays-memes.pdf) Inferring the dankness field of US presidential memes, joint work with Andrés Ramirez⁩.
 
 ## Miscellanea
