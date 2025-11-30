@@ -17,7 +17,7 @@ Lately, my work has been on quantum foundations and moving towards quantum found
 
 #### Information Field Theory
 The other part of my doctoral studies involves work on information field theory and specifically radio interferometric imaging.
-* [Introduction to Information Field Theory](intro-ift.pdf): A talk I gave about the work we do in our group.
+* [Introduction to Information Field Theory](intro-to-ift.pdf): A talk I gave about the work we do in our group.
 * [Multifrequency imaging of Elias27](multifrequency-imaging.pdf): Preliminary results for multifrequency imaging of Elias27, a protoplanetary disk, using [NIFTy](https://gitlab.mpcdf.mpg.de/ift/nifty) and [resolve](https://gitlab.mpcdf.mpg.de/ift/resolve). This is work done in the context of the [BRAIN study](https://www.mdpi.com/2673-9984/9/1/18).
 * [Pauli Matrix for Stokes Representation](Pauli_matrix_exponential.pdf): The Stokes matrix for light polarization in terms of the Pauli algebra.
 
