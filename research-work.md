@@ -36,9 +36,9 @@ From the more mathy...
 * [Transcendence of Newton's Laws](newtonian-transcendence.pdf)
 * [Slider](slider.pdf)
 * [Newcomb's Problem and Entanglement](quantum-newcomb.pdf)
-* [Newcomb's Paradox again!](necomb-paradox-again.pdf)
+* [Newcomb's Paradox again!](newcomb-paradox-again.pdf)
 * [Newcomb's Problem and an argument for 1-boxing](newcomb.pdf)
-* [Half average](hald-average-presentation.pdf)
+* [Half average](half-average-presentation.pdf)
 * [Do things really exist?](things-exist.pdf)
 
 ...to the more philosophyy.
